@@ -1,6 +1,6 @@
-interface CartItem {
+interface ICartItem {
   name: string;
   price: number;
 }
 
-export { CartItem }
+export { ICartItem }
